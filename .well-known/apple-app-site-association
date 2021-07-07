@@ -1,14 +1,10 @@
 {
   "applinks": {
+    "apps": [],
     "details": [
       {
-        "appIDs": [ "RL5BZVWAZT.io.intercom.ios"],
-        "components": [
-          {
-            "/": "/a/apps/odymwnr8/settings/ios",
-            "comment": "Matches any URL whose path starts with /buy/"
-          }
-        ]
+        "appIDs": [ "com.zayzoon.app"],
+        "paths":[ "/*" ]
       }
     ]
   }
