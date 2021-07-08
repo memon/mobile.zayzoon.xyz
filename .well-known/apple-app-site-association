@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appIDs": [ "com.zayzoon.app"],
+        "appIDs": [ "752C88BQWF.com.zayzoon.app"],
         "paths":[ "/*" ]
       }
     ]
