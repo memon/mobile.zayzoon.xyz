@@ -29,6 +29,15 @@ Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa 
 
 Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
 
+exp://10.0.0.124:19000
 [Other Tools](exp://10.0.0.124:19000/--/app/other_tools)
-
 [Profile](exp://10.0.0.124:19000/--/app/profile)
+
+zayzoon://
+[Other Tools](zayzoon://other_tools)
+[Profile](zayzoon://profile)
+
+https://app.zayzoon.com
+[Other Tools](https://app.zayzoon.com/other_tools)
+[Profile](https://app.zayzoon.com/profile)
+[Wallets](https://app.zayzoon.com/wallets)
