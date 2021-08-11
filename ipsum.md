@@ -43,6 +43,7 @@ https://app.zayzoon.com
 [Wallets](https://app.zayzoon.com/wallets)
 [CPU Signup](https://app.zayzoon.com/signup/cpu)
 [Enrich](https://app.zayzoon.com/enrich)
+[With Query Params](https://app.zayzoon.com/customers/sign_up?utm_campaign=blah&utm_term=blerg&etc&etc)
 
 zayzoon://
 [Other Tools](zayzoon://other_tools)
