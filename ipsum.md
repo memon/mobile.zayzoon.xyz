@@ -45,6 +45,15 @@ https://app.zayzoon.com
 [Enrich](https://app.zayzoon.com/enrich)
 [With Query Params](https://app.zayzoon.com/customers/sign_up?utm_campaign=blah&utm_term=blerg&etc&etc)
 
+
+https://mobile.zayzoon.xyz
+[App](https://mobile.zayzoon.xyz/)
+[Profile](https://mobile.zayzoon.xyz/profile)
+[Wallets](https://mobile.zayzoon.xyz/wallets)
+[CPU Signup](https://mobile.zayzoon.xyz/signup/cpu)
+[Enrich](https://mobile.zayzoon.xyz/enrich)
+[With Query Params](https://mobile.zayzoon.xyz/customers/sign_up?utm_campaign=blah&utm_term=blerg&etc&etc)
+
 zayzoon://
 [Other Tools](zayzoon://other_tools)
 
