@@ -4,12 +4,7 @@
     "details": [
       {
         "appIDs": [ "752C88BQWF.com.zayzoon.app"],
-        "paths": [
-          "/myaccount",
-          "/profile",
-          "/wallets",
-          "/financial_wellness"
-        ]
+        "paths":[ "/*" ]
       }
     ]
   }
