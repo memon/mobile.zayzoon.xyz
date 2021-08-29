@@ -3,21 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appID": "752C88BQWF.com.zayzoon.app",
-        "paths": [
-          "/",
-          "/myaccount",
-          "/profile*",
-          "/wallets",
-          "/financial_wellness",
-          "NOT /admin/*"
-          "NOT /admins*"
-          "NOT /partners/*"
-          "NOT /adp_marketplace/*"
-          "NOT /xero/*"
-          "NOT /adp/*"
-          "NOT /v1/*"
-        ]
+        "appIDs": [ "752C88BQWF.com.zayzoon.app"],
+        "paths":[ "/*" ]
       }
     ]
   }
