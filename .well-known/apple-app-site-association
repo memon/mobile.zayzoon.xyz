@@ -10,12 +10,12 @@
           "/profile*",
           "/wallets",
           "/financial_wellness",
-          "NOT /admin/*"
-          "NOT /admins*"
-          "NOT /partners/*"
-          "NOT /adp_marketplace/*"
-          "NOT /xero/*"
-          "NOT /adp/*"
+          "NOT /admin/*",
+          "NOT /admins*",
+          "NOT /partners/*",
+          "NOT /adp_marketplace/*",
+          "NOT /xero/*",
+          "NOT /adp/*",
           "NOT /v1/*"
         ]
       }
