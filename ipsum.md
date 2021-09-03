@@ -44,6 +44,7 @@ https://app.zayzoon.com
 [CPU Signup](https://app.zayzoon.com/signup/cpu)
 [Enrich](https://app.zayzoon.com/enrich)
 [With Query Params](https://app.zayzoon.com/customers/sign_up?utm_campaign=blah&utm_term=blerg&etc&etc)
+[Hello](https://app.zayzoon.com/hello)
 
 
 https://mobile.zayzoon.xyz
@@ -53,6 +54,7 @@ https://mobile.zayzoon.xyz
 [CPU Signup](https://mobile.zayzoon.xyz/signup/cpu)
 [Enrich](https://mobile.zayzoon.xyz/enrich)
 [With Query Params](https://mobile.zayzoon.xyz/customers/sign_up?utm_campaign=blah&utm_term=blerg&etc&etc)
+[Hello](https://mobile.zayzoon.xyz/hello)
 
 zayzoon://
 [Other Tools](zayzoon://other_tools)
