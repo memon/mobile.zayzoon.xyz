@@ -6,18 +6,25 @@
         "appID": "752C88BQWF.com.zayzoon.app",
         "paths": [
           "/",
-          "/myaccount",
-          "/profile*",
-          "/wallets",
+          "/activities",
+          "/boost",
+          "/customers/sign_in",
+          "/earnings",
           "/financial_wellness",
           "/my/*",
+          "/myaccount",
+          "/other_tools",
+          "/profile",
+          "/referrals",
+          "/support",
+          "/wallets",
           "NOT /admin/*",
           "NOT /admins*",
-          "NOT /partners/*",
-          "NOT /adp_marketplace/*",
-          "NOT /xero/*",
           "NOT /adp/*",
-          "NOT /v1/*"
+          "NOT /adp_marketplace/*",
+          "NOT /partners/*",
+          "NOT /v1/*",
+          "NOT /xero/*"
         ]
       }
     ]
