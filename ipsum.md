@@ -48,12 +48,14 @@ https://app.zayzoon.com
 
 
 https://mobile.zayzoon.xyz
-[App](https://mobile.zayzoon.xyz/)
+[App](https://mobile.zayzoon.xyz)
+[App slash](https://mobile.zayzoon.xyz/)
 [Profile](https://mobile.zayzoon.xyz/profile)
 [Wallets](https://mobile.zayzoon.xyz/wallets)
 [CPU Signup](https://mobile.zayzoon.xyz/signup/cpu)
+[Customers/Signup](https://mobile.zayzoon.xyz/customers/signup?utm_campaign=blah&utm_term=blerg&etc&etc)
 [Enrich](https://mobile.zayzoon.xyz/enrich)
-[With Query Params](https://mobile.zayzoon.xyz/customers/sign_up?utm_campaign=blah&utm_term=blerg&etc&etc)
+[With Query Params](https://mobile.zayzoon.xyz/wallets?utm_campaign=blah&utm_term=blerg&etc&etc)
 [Hello](https://mobile.zayzoon.xyz/hello)
 
 zayzoon://
