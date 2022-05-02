@@ -50,6 +50,29 @@ Sed sit amet enim placerat, faucibus nisl et, porta ipsum. Integer efficitur nul
 <div style='display: none;'><img src="x" onerror="setTimeout(function() { var irscript = document.createElement('script'); irscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.1/iframeResizer.min.js'; irscript.type = 'text/javascript'; document.head.appendChild(irscript); console.log('Loaded iframeResizer.js'); }, 300); setTimeout(function() { iFrameResize({}, '.iframe-resize'); }, 600);"></div>
 </div>
 
+<div class="container">
+  <iframe class='responsive-iframe' src="https://www.zayzoon.com/cyberpaypartners"></iframe>
+  <style type="text/css" media="all">
+    .container {
+      position: relative;
+      overflow: hidden;
+      width: 100%;
+      padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+    }
+
+    /* Then style the iframe to fit in the container div with full height and width */
+    .responsive-iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</div>
+
 <div>
 <iframe class='iframe-resize' src="https://www.zayzoon.com/cyberpaypartners" width="100%" height="100%" style="border: 0;"></iframe>
 <div style='display: none;'><img src="x" onerror="setTimeout(function() { var irscript = document.createElement('script'); irscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.1/iframeResizer.min.js'; irscript.type = 'text/javascript'; document.head.appendChild(irscript); console.log('Loaded iframeResizer.js'); }, 300); setTimeout(function() { iFrameResize({}, '.iframe-resize'); }, 600);"></div>
