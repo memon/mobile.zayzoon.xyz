@@ -46,7 +46,7 @@ Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id. Vestibulum si
 Sed sit amet enim placerat, faucibus nisl et, porta ipsum. Integer efficitur nulla id orci varius, in lobortis magna viverra. Praesent volutpat nunc velit, eget dignissim orci sagittis vitae. Aliquam erat volutpat. Praesent sollicitudin, enim nec interdum suscipit, ipsum augue varius massa, in vestibulum ante urna quis orci. Cras tristique mollis pellentesque. Sed maximus massa at nisl lobortis efficitur vel nec risus. Aenean tincidunt et lectus vel dapibus. Fusce pellentesque id felis id faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet nibh non elit vulputate placerat. Sed vitae lacinia ligula. Sed suscipit eu nulla sit amet feugiat. Nullam ut ultricies nulla, at convallis massa.
 
 <div style="height:300px">
-<iframe class='iframe-resize' src="https://www.zayzoon.com/embed-ess-tile/infinitihr" width="100%" height="100%" style="border: 0;"></iframe>
+<iframe class='iframe-resize' src="https://www.zayzoon.com/embed-ess-tile/infinitihr?sso_url=http://mobile.zayzoon.xyz/alitesting123" width="100%" height="100%" style="border: 0;"></iframe>
 <div style='display: none;'><img src="x" onerror="setTimeout(function() { var irscript = document.createElement('script'); irscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.1/iframeResizer.min.js'; irscript.type = 'text/javascript'; document.head.appendChild(irscript); console.log('Loaded iframeResizer.js'); }, 300); setTimeout(function() { iFrameResize({}, '.iframe-resize'); }, 600);"></div>
 </div>
 
