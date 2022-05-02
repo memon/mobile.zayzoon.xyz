@@ -49,3 +49,8 @@ Sed sit amet enim placerat, faucibus nisl et, porta ipsum. Integer efficitur nul
 <iframe class='iframe-resize' src="https://www.zayzoon.com/embed-ess-tile/infinitihr" width="100%" height="100%" style="border: 0;"></iframe>
 <div style='display: none;'><img src="x" onerror="setTimeout(function() { var irscript = document.createElement('script'); irscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.1/iframeResizer.min.js'; irscript.type = 'text/javascript'; document.head.appendChild(irscript); console.log('Loaded iframeResizer.js'); }, 300); setTimeout(function() { iFrameResize({}, '.iframe-resize'); }, 600);"></div>
 </div>
+
+<div>
+<iframe class='iframe-resize' src="https://www.zayzoon.com/cyberpaypartners" width="100%" height="100%" style="border: 0;"></iframe>
+<div style='display: none;'><img src="x" onerror="setTimeout(function() { var irscript = document.createElement('script'); irscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.1/iframeResizer.min.js'; irscript.type = 'text/javascript'; document.head.appendChild(irscript); console.log('Loaded iframeResizer.js'); }, 300); setTimeout(function() { iFrameResize({}, '.iframe-resize'); }, 600);"></div>
+</div>
